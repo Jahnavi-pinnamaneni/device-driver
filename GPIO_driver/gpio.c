@@ -30,7 +30,7 @@ static ssize_t driver_read(struct file *File, char *user_buffer, size_t count, l
 
 	/* Read value of button */
 	//printk("Value of button: %d\n", gpio_get_value(17));
-	tmp[0] = gpio_get_value(17) + '0';
+	tmp[0] = gpio_get_value(4) + '0';
 
 	/* Copy data to user */
 	not_copied = copy_to_user(user_buffer, &tmp, to_copy);

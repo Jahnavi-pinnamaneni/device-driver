@@ -1,0 +1,1 @@
+cmd_/home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/gpio.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/gpio.ko /home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/gpio.o /home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/gpio.mod.o;  true

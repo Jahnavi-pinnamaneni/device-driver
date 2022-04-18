@@ -1,0 +1,1 @@
+cmd_/home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/gpio.mod := { echo  /home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/gpio.o;  echo; } > /home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/gpio.mod
