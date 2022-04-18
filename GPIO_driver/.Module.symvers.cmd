@@ -1,1 +1,0 @@
-cmd_/home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/modules.order | scripts/mod/modpost -m -a  -o /home/jahnavi/Desktop/AESD/device-driver/GPIO_driver/Module.symvers -e -i Module.symvers   -T -
